@@ -38,7 +38,7 @@ Sur suppression de compte, les données suivantes sont supprimées :
 - Phases body goal et pesées
 - Revenus, dépenses, virements, fonds planifiés
 - Suppléments et rappels
-- Insights CORTANA, mémoire CORTANA, signal events, débriefs
+- Insights Lumen, mémoire Lumen, signal events, débriefs
 - Notifications planifiées sur l'appareil
 
 La suppression est définitive. Aucune donnée utilisateur principale n'est conservée dans la base LUBB après suppression.
@@ -82,7 +82,7 @@ On account deletion, the following data is deleted:
 - Body goal phases and weigh-ins
 - Income, expenses, transfers, planned funds
 - Supplements and reminders
-- CORTANA insights, CORTANA memory, signal events, debriefs
+- Lumen insights, Lumen memory, signal events, debriefs
 - Scheduled notifications on the device
 
 Deletion is permanent. No primary user data is kept in the LUBB database after deletion.

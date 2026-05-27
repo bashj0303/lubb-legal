@@ -14,7 +14,7 @@
 En créant un compte ou en utilisant LUBB, tu acceptes ces conditions. Si tu ne les acceptes pas, n'utilise pas l'app.
 
 ### 2. Description du service
-LUBB est une application mobile de suivi personnel intégré : Fuel, Kinetix, Wealth, Pill Stack, Body Goal et CORTANA.
+LUBB est une application mobile de suivi personnel intégré : Fuel, Kinetix, Wealth, Pill Stack, Body Goal et Lumen.
 
 ### 3. Compte utilisateur
 Tu es responsable de ton compte, de ton mot de passe et des données que tu saisis. Tu dois avoir au moins 13 ans pour utiliser LUBB.
@@ -25,8 +25,8 @@ LUBB ne fournit aucun avis médical, diagnostic ou traitement. Les données nutr
 ### 5. Pas d'avis financier
 LUBB est un outil de suivi budgétaire personnel. Il ne fournit aucun conseil financier, fiscal ou d'investissement.
 
-### 6. CORTANA et IA
-CORTANA génère des observations via des modèles d'IA tiers. Ces insights peuvent contenir des erreurs ou approximations. Tu restes responsable de tes décisions.
+### 6. Lumen et IA
+Lumen génère des observations via des modèles d'IA tiers. Ces insights peuvent contenir des erreurs ou approximations. Tu restes responsable de tes décisions.
 
 ### 7. Pill Stack
 Les rappels de prise sont des rappels personnels que tu configures toi-même. LUBB ne prescrit ni ne valide aucun protocole de supplémentation.
@@ -54,7 +54,7 @@ lubb.support@gmail.com
 By creating an account or using LUBB, you accept these terms. If you do not accept them, do not use the app.
 
 ### 2. Service description
-LUBB is an integrated personal tracking mobile app: Fuel, Kinetix, Wealth, Pill Stack, Body Goal, and CORTANA.
+LUBB is an integrated personal tracking mobile app: Fuel, Kinetix, Wealth, Pill Stack, Body Goal, and Lumen.
 
 ### 3. User account
 You are responsible for your account, password, and the data you enter. You must be at least 13 years old to use LUBB.
@@ -65,8 +65,8 @@ LUBB does not provide medical advice, diagnosis, or treatment. Nutrition, traini
 ### 5. No financial advice
 LUBB is a personal budget tracking tool. It does not provide financial, tax, or investment advice.
 
-### 6. CORTANA and AI
-CORTANA generates observations through third-party AI models. These insights may contain errors or approximations. You remain responsible for your decisions.
+### 6. Lumen and AI
+Lumen generates observations through third-party AI models. These insights may contain errors or approximations. You remain responsible for your decisions.
 
 ### 7. Pill Stack
 Intake reminders are personal reminders you configure yourself. LUBB does not prescribe or validate any supplementation protocol.
