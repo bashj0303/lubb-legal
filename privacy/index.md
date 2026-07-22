@@ -1,11 +1,12 @@
 # Politique de confidentialité — Privacy Policy
 
 **Application :** LUBB<br>
-**Exploitant / Operator :** LUBB by Ismael<br>
-**Responsable de la protection des renseignements personnels / Privacy Officer :** Exploitant de LUBB<br>
+**Exploitant / Operator :** Ismael Badache, entreprise individuelle / sole proprietor<br>
+**Nom d'entreprise / Business name :** Application mobile LUBB<br>
+**Lieu d'exploitation / Place of operation :** Saint-Charles-Borromée (Québec), Canada<br>
+**Responsable de la protection des renseignements personnels / Privacy Officer :** Ismael Badache<br>
 **Contact :** lubb.support@gmail.com<br>
 **Dernière mise à jour / Last updated :** 2026-07-22<br>
-**Lieu d'exploitation / Place of operation :** Québec, Canada
 
 ---
 

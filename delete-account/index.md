@@ -1,7 +1,9 @@
 # Suppression du compte et des données — Account and Data Deletion
 
 **Application :** LUBB<br>
-**Exploitant / Operator :** LUBB by Ismael<br>
+**Exploitant / Operator :** Ismael Badache, entreprise individuelle / sole proprietor<br>
+**Nom d'entreprise / Business name :** Application mobile LUBB<br>
+**Lieu d'exploitation / Place of operation :** Saint-Charles-Borromée (Québec), Canada<br>
 **Contact :** lubb.support@gmail.com<br>
 **Dernière mise à jour / Last updated :** 2026-07-22
 

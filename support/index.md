@@ -1,8 +1,11 @@
 # Soutien LUBB — LUBB Support
 
 **Application :** LUBB<br>
-**Exploitant / Operator :** LUBB by Ismael<br>
-**Soutien et responsable de la vie privée / Support and Privacy Officer :** lubb.support@gmail.com<br>
+**Exploitant / Operator :** Ismael Badache, entreprise individuelle / sole proprietor<br>
+**Nom d'entreprise / Business name :** Application mobile LUBB<br>
+**Lieu d'exploitation / Place of operation :** Saint-Charles-Borromée (Québec), Canada<br>
+**Responsable de la protection des renseignements personnels / Privacy Officer :** Ismael Badache<br>
+**Soutien et vie privée / Support and privacy :** lubb.support@gmail.com<br>
 **Dernière mise à jour / Last updated :** 2026-07-22
 
 ---
